@@ -26,7 +26,7 @@ main{
     margin:auto;
     padding: 2.3rem 2rem;
     max-width: var(--width-break);
-    background-color: rgb(255, 250, 236);
+    background-color: rgb(255, 255, 255);
     opacity: 0.98;
 }
 textarea{
