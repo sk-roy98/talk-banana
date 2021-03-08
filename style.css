@@ -67,7 +67,7 @@ footer{
     display: block;
     background-color: var(--primary);
     width: 100%;
-    padding: 1rem;
+    padding: 1rem 2rem;
     position: fixed;
     bottom:-35%;
     text-align: center;
@@ -76,6 +76,7 @@ footer{
 footer p{
     max-width: var(--width-break);
     margin: auto;
+    padding: 0.5rem;
     font-size:larger;
     text-align: center;
 }
