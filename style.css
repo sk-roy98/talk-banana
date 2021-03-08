@@ -67,16 +67,15 @@ footer{
     display: block;
     background-color: var(--primary);
     width: 100%;
-    padding: 2rem 1rem;
+    padding: 1rem 1rem 1.5rem;
     position: fixed;
-    bottom:-35%;
+    bottom:-40%;
     text-align: center;
     
 }
 footer p{
     max-width: var(--width-break);
     margin: auto;
-    padding: 0.5rem;
     font-size:larger;
     text-align: center;
 }
