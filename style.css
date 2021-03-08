@@ -1,9 +1,9 @@
 :root{
     --primary: #ffce52 ;
-    --width-break: 550px;
+    --width-break: 600px;
 }
 *{
-    box-sizing: border-box;
+   box-sizing: border-box;
 }
 body{
     margin: 0;
@@ -39,9 +39,10 @@ textarea{
     padding: 0.5rem;
 }
 button{
+
     margin: 1rem auto;
     background-color: var(--primary);
-    padding: 0.5rem 1rem;
+    padding: 0.7rem 1rem;
     font-size: 1.5rem;
     font-family: inherit;
     font-weight: 200;
@@ -66,14 +67,18 @@ footer{
     display: block;
     background-color: var(--primary);
     width: 100%;
+    margin-bottom: 2rem;
     padding: 1rem;
     position: fixed;
+    bottom: 
     text-align: center;
+    
 }
 footer p{
     max-width: var(--width-break);
     margin: auto;
     font-size:larger;
+    text-align: center;
 }
 footer small{
     position: absolute;
